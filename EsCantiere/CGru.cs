@@ -8,23 +8,28 @@ namespace EsCantiere
 {
     internal class CGru : CMacchinariPesanti
     {
-        public int PortataMaxCarico { get; set; }
-        public int AltezzaLavoro { get; set; }
-        public CGru(string targa, string modello, int annoProduzione, int volumeSerbatoio, int portataMaxCarico, int altezzaLavoro)
+        private int portataMaxCarico;
+        public int AltezzaLavoro { get; private set; }
+        public CGru(string targa, string modello, int annoProduzione, int volumeSerbatoio, int totportataMaxCarico, int totaltezzaLavoro)
             : base(targa, modello, annoProduzione, volumeSerbatoio)
         {
-            PortataMaxCarico = portataMaxCarico;
-            AltezzaLavoro = altezzaLavoro;
+            portataMaxCarico = totportataMaxCarico;
+            AltezzaLavoro = totaltezzaLavoro;
         }
         public override string Descrizione()
         {
             string statoMacchinario = Stato ? "Assegnato" : "Libero";
-            return $"Targa: {Targa}, Modello: {Modello}, Anno: {AnnoProduzione}, Volume Serbatoio: {VolumeSerbatoio}, Stato: {statoMacchinario}, Portata Massima Carico: {PortataMaxCarico}, Altezza Lavoro: {AltezzaLavoro}";
+            return $"Targa: {Targa}, Modello: {Modello}, Anno: {AnnoProduzione}, " +
+                $"Volume Serbatoio: {VolumeSerbatoio}, Stato: {statoMacchinario}, Portata Massima Carico: {portataMaxCarico}," +
+                $" Altezza Lavoro: {AltezzaLavoro}";
         }
 
         public void AumentaAltezza()
         {
-            AltezzaLavoro += 1;
+            if (AltezzaLavoro < 100)
+            {
+                AltezzaLavoro += 1;
+            }
         }
         public void DiminuisciAltezza()
         {

@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|c:\\users\\lorenzo\\desktop\\c sharp\\escantiere\\escantiere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|solutionrelative:escantiere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\escantiere\\cmacchinaripesanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|solutionrelative:escantiere\\cmacchinaripesanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\escantiere\\cbetoniera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|solutionrelative:escantiere\\cbetoniera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\escantiere\\cruspa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +15,20 @@
       "RelativeMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|solutionrelative:escantiere\\cgru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\escantiere\\cbetoniera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|solutionrelative:escantiere\\cbetoniera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|c:\\users\\lorenzo\\desktop\\c sharp\\escantiere\\escantiere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|solutionrelative:escantiere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\escantiere\\iassegnabile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|solutionrelative:escantiere\\iassegnabile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\escantiere\\ccantiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|solutionrelative:escantiere\\ccantiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\escantiere\\iassegnabile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|solutionrelative:escantiere\\iassegnabile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\escantiere\\cmacchinaripesanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402FCAD9-A2F4-4EEE-8B8C-A7E122A7819D}|EsCantiere\\EsCantiere.csproj|solutionrelative:escantiere\\cmacchinaripesanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -48,79 +48,85 @@
               "RelativeDocumentMoniker": "EsCantiere\\CCantiere.cs",
               "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\EsCantiere\\CCantiere.cs",
               "RelativeToolTip": "EsCantiere\\CCantiere.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T15:59:16.334Z"
+              "WhenOpened": "2026-10-06T15:59:16.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "IAssegnabile.cs",
               "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\EsCantiere\\IAssegnabile.cs",
               "RelativeDocumentMoniker": "EsCantiere\\IAssegnabile.cs",
               "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\EsCantiere\\IAssegnabile.cs",
               "RelativeToolTip": "EsCantiere\\IAssegnabile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T09:03:19.071Z"
+              "WhenOpened": "2026-10-06T09:03:19.071Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CBetoniera.cs",
               "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\EsCantiere\\CBetoniera.cs",
               "RelativeDocumentMoniker": "EsCantiere\\CBetoniera.cs",
               "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\EsCantiere\\CBetoniera.cs",
               "RelativeToolTip": "EsCantiere\\CBetoniera.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwCkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T08:56:25.303Z"
+              "WhenOpened": "2026-10-06T08:56:25.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CGru.cs",
               "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\EsCantiere\\CGru.cs",
               "RelativeDocumentMoniker": "EsCantiere\\CGru.cs",
               "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\EsCantiere\\CGru.cs",
               "RelativeToolTip": "EsCantiere\\CGru.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T08:56:12.206Z"
+              "WhenOpened": "2026-10-06T08:56:12.206Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CRuspa.cs",
               "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\EsCantiere\\CRuspa.cs",
               "RelativeDocumentMoniker": "EsCantiere\\CRuspa.cs",
               "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\EsCantiere\\CRuspa.cs",
               "RelativeToolTip": "EsCantiere\\CRuspa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T08:56:01.749Z"
+              "WhenOpened": "2026-10-06T08:56:01.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "CMacchinariPesanti.cs",
               "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\EsCantiere\\CMacchinariPesanti.cs",
               "RelativeDocumentMoniker": "EsCantiere\\CMacchinariPesanti.cs",
               "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\EsCantiere\\CMacchinariPesanti.cs",
               "RelativeToolTip": "EsCantiere\\CMacchinariPesanti.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAwwCgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T08:55:37.713Z"
+              "WhenOpened": "2026-10-06T08:55:37.713Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\EsCantiere\\Program.cs",
               "RelativeDocumentMoniker": "EsCantiere\\Program.cs",
               "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsCantiere\\EsCantiere\\Program.cs",
               "RelativeToolTip": "EsCantiere\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAvwMMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-06T08:55:18.748Z",
               "EditorCaption": ""

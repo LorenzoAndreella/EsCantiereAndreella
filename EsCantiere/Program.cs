@@ -199,7 +199,8 @@ namespace EsCantiere
             do
             {
                 Console.WriteLine("Inserisci la nuova dimensione della benna (300, 500, 700, 1000, 1500, 2000): ");
-            } while (!int.TryParse(Console.ReadLine(), out numeroBenna) || !Enum.IsDefined(typeof(DimensioneBenna), (DimensioneBenna)numeroBenna));
+            } while (!int.TryParse(Console.ReadLine(), out numeroBenna) || !Enum.IsDefined(typeof(DimensioneBenna), 
+            (DimensioneBenna)numeroBenna));
 
             nuovaBenna = (DimensioneBenna)numeroBenna;
 

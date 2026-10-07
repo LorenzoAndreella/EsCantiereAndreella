@@ -8,18 +8,18 @@ namespace EsCantiere
 {
     internal class CBetoniera : CMacchinariPesanti
     {
-        public int CapacitaMax { get; set; }
-        public int CapacitaAttuale { get; set; }
-        public CBetoniera(string targa, string modello, int annoProduzione, int volumeSerbatoio, int capacitaMax)
+        private int capacitaMax;
+        private int capacitaAttuale;
+        public CBetoniera(string targa, string modello, int annoProduzione, int volumeSerbatoio, int totcapacitaMax)
             : base(targa, modello, annoProduzione, volumeSerbatoio)
         {
-            CapacitaMax = capacitaMax;
-            CapacitaAttuale = 0;
+            capacitaMax = totcapacitaMax;
+            capacitaAttuale = 0;
         }
         public override string Descrizione()
         {
             string statoMacchinario = Stato ? "Assegnato" : "Libero";
-            return $"Targa: {Targa}, Modello: {Modello}, Anno: {AnnoProduzione}, Volume Serbatoio: {VolumeSerbatoio}, Stato: {statoMacchinario}, Capacità Massima: {CapacitaMax}, Capacità Attuale: {CapacitaAttuale}";
+            return $"Targa: {Targa}, Modello: {Modello}, Anno: {AnnoProduzione}, Volume Serbatoio: {VolumeSerbatoio}, Stato: {statoMacchinario}, Capacità Massima: {capacitaMax}, Capacità Attuale: {capacitaAttuale}";
         }
         public string CaricaCemento(int quantita)
         {
@@ -27,9 +27,9 @@ namespace EsCantiere
             {
                 return "Quantità di cemento non valida.";
             }
-            if (CapacitaAttuale + quantita <= CapacitaMax)
+            if (capacitaAttuale + quantita <= capacitaMax)
             {
-                CapacitaAttuale += quantita;
+                capacitaAttuale += quantita;
                 return $"Cemento ({quantita}) caricato con successo.";
             }
             return "Impossibile caricare il cemento. Capacità massima superata.";
@@ -40,9 +40,9 @@ namespace EsCantiere
             {
                 return "Quantità di cemento non valida.";
             }
-            if (CapacitaAttuale - quantita >= 0)
+            if (capacitaAttuale - quantita >= 0)
             {
-                CapacitaAttuale -= quantita;
+                capacitaAttuale -= quantita;
                 return $"Cemento ({quantita}) versato con successo.";
             }
             return "Impossibile versare il cemento. Quantità insufficiente.";

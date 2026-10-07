@@ -8,8 +8,8 @@ namespace EsCantiere
 {
     internal class CCantiere
     {
-        public List<CMacchinariPesanti> macchinari;
-        public string NomeCantiere { get; set; }
+        public List<CMacchinariPesanti> macchinari { get; set; }
+        public string NomeCantiere { get; private set; }
         public CCantiere(string nomeCantiere)
         {
             macchinari = new List<CMacchinariPesanti>();

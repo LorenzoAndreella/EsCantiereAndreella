@@ -17,22 +17,22 @@ namespace EsCantiere
     }
     internal class CRuspa : CMacchinariPesanti
     {
-        public DimensioneBenna Benna { get; set; }
+        private DimensioneBenna benna;
 
-        public CRuspa(string targa, string modello, int anno, int volumeSerbatoio, DimensioneBenna benna) : base(targa, modello, anno, volumeSerbatoio)
+        public CRuspa(string targa, string modello, int anno, int volumeSerbatoio, DimensioneBenna totbenna) : base(targa, modello, anno, volumeSerbatoio)
         {
-            Benna = benna;
+            benna = totbenna;
         }
         
         public override string Descrizione()
         {
             string statoMacchinario = Stato ? "Assegnato" : "Libero";
-            return $"Targa: {Targa}, Modello: {Modello}, Anno: {AnnoProduzione}, Volume Serbatoio: {VolumeSerbatoio}, Stato: {statoMacchinario}, Benna: {Benna}";
+            return $"Targa: {Targa}, Modello: {Modello}, Anno: {AnnoProduzione}, Volume Serbatoio: {VolumeSerbatoio}, Stato: {statoMacchinario}, Benna: {benna}";
         }
 
         public string CambiaBenna(DimensioneBenna nuovaBenna)
         {
-            Benna = nuovaBenna;
+            benna = nuovaBenna;
             return $"Benna cambiata ({nuovaBenna}) con successo.";
         }
     }
