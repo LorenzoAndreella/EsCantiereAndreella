@@ -1,7 +1,14 @@
-C:\Users\lorenzo\Desktop\c sharp\EsCantiere\EsCantiere\bin\Debug\EsCantiere.exe.config
-C:\Users\lorenzo\Desktop\c sharp\EsCantiere\EsCantiere\bin\Debug\EsCantiere.exe
-C:\Users\lorenzo\Desktop\c sharp\EsCantiere\EsCantiere\bin\Debug\EsCantiere.pdb
-C:\Users\lorenzo\Desktop\c sharp\EsCantiere\EsCantiere\obj\Debug\EsCantiere.csproj.AssemblyReference.cache
-C:\Users\lorenzo\Desktop\c sharp\EsCantiere\EsCantiere\obj\Debug\EsCantiere.csproj.CoreCompileInputs.cache
-C:\Users\lorenzo\Desktop\c sharp\EsCantiere\EsCantiere\obj\Debug\EsCantiere.exe
-C:\Users\lorenzo\Desktop\c sharp\EsCantiere\EsCantiere\obj\Debug\EsCantiere.pdb
+C:/Users/lorenzo/Desktop/c sharp/EsCantiere/EsCantiere/bin/Debug/EsCantiere.exe.config
+C:/Users/lorenzo/Desktop/c sharp/EsCantiere/EsCantiere/bin/Debug/EsCantiere.exe
+C:/Users/lorenzo/Desktop/c sharp/EsCantiere/EsCantiere/bin/Debug/EsCantiere.pdb
+C:/Users/lorenzo/Desktop/c sharp/EsCantiere/EsCantiere/obj/Debug/EsCantiere.csproj.AssemblyReference.cache
+C:/Users/lorenzo/Desktop/c sharp/EsCantiere/EsCantiere/obj/Debug/EsCantiere.csproj.CoreCompileInputs.cache
+C:/Users/lorenzo/Desktop/c sharp/EsCantiere/EsCantiere/obj/Debug/EsCantiere.exe
+C:/Users/lorenzo/Desktop/c sharp/EsCantiere/EsCantiere/obj/Debug/EsCantiere.pdb
+/Users/lorenzoandreella/RiderProjects/EsCantiereAndreella/EsCantiere/obj/Debug/EsCantiere.exe
+/Users/lorenzoandreella/RiderProjects/EsCantiereAndreella/EsCantiere/obj/Debug/EsCantiere.pdb
+/Users/lorenzoandreella/RiderProjects/EsCantiereAndreella/EsCantiere/bin/Debug/EsCantiere.exe.config
+/Users/lorenzoandreella/RiderProjects/EsCantiereAndreella/EsCantiere/bin/Debug/EsCantiere.exe
+/Users/lorenzoandreella/RiderProjects/EsCantiereAndreella/EsCantiere/bin/Debug/EsCantiere.pdb
+/Users/lorenzoandreella/RiderProjects/EsCantiereAndreella/EsCantiere/obj/Debug/EsCantiere.csproj.AssemblyReference.cache
+/Users/lorenzoandreella/RiderProjects/EsCantiereAndreella/EsCantiere/obj/Debug/EsCantiere.csproj.CoreCompileInputs.cache
